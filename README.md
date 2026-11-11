@@ -25,3 +25,9 @@ Open the project README to understand its purpose and features.
 ## Contribution
 
 Contributions and suggestions are welcome.
+
+## Prerequisites
+
+- Git installed on your computer
+- A GitHub account
+- Basic knowledge of Markdown
