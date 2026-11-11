@@ -25,3 +25,5 @@ Open the project README to understand its purpose and features.
 ## Contribution
 
 Contributions and suggestions are welcome.
+
+This project demonstrates the GitHub pull request review workflow.
